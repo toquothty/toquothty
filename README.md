@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Thomas Toquothty
-- 👀 I’m interested in developing my programming/scripting skills in relation to skills development as well as automating common IT related tasks
-- 🌱 I’m currently learning generic Python but particularly have been focused on calling various networking APIs and writing returned/sorted data to databases.
+- 👋 Hi, I’m Thomas Toquothty, currently I work in the networking team at Carmax as a Principal Network Engineer.
+- 👀 As I do more and more internal automation tasks, I'm further developing my python by digging into CLI toolkits and Django web apps
 - 💞️ I’m looking to collaborate on any project, particularly in the network automation space
 - 📫 How to reach me: https://www.linkedin.com/in/ttoquothty/
 
