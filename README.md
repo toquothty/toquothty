@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Thomas Toquothty, currently I work in the networking team at Carmax as a Principal Network Engineer.
+- 👋 Hi, I’m Thomas Toquothty, currently I work as a Principal Network Engineer in OCI AI Networking.
 - 👀 As I do more and more internal automation tasks, I'm further developing my python by digging into CLI toolkits and Django web apps
 - 💞️ I’m looking to collaborate on any project, particularly in the network automation space
 - 📫 How to reach me: https://www.linkedin.com/in/ttoquothty/
